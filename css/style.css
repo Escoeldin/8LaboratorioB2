@@ -1,0 +1,59 @@
+/*Write your style here*/
+
+#button {
+ padding: 2;
+ }
+
+#button li {
+ display: inline;
+ }
+
+#button li a {
+ font-family: Arial;
+ font-size: 19px;
+ text-decoration: none;
+ float: right;
+ padding: 19px;
+ background-color: #929292;
+ color: #fff;
+
+}
+body{
+  background-color: #3B3D64 
+}
+
+.container {
+	padding: 10px;
+	background-color: #98989A;
+
+}
+
+.container2 {
+	background-color: blue;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	font-family: vendana;
+}
+
+.e {
+	color: white;
+	background-color: red;
+}
+
+.container3 {
+ background-color: yellow;
+}
+
+h1 {
+	color: white;
+}
+
+h2{
+	padding: 1px;
+}
+
+
+
+ 
+ 
